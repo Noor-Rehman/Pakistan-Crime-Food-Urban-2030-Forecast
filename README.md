@@ -42,7 +42,7 @@ We employ:
 | 📊 Data Collection   | `FAOSTAT`, `Pakistan Bureau of Statistics (PBS)` |
 | 📊 Data Analysis   | `Python`, `pandas`, `Prophet`, `ARIMA`, `sklearn` |
 | 📈 Visualization   | `Plotly`, `ggplot2`                   |
-| 🖥️ Dashboard       | `R`, `Shiny`, `shinydashboard`, `leaflet`, `DT` |
+| 🖥️ Dashboard       | `R`, `Shiny`, `shinydashboard` |
 | 📘 Documentation   | `Visme`, |
 
 ---
