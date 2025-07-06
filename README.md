@@ -51,7 +51,7 @@ We employ:
 
 Explore our predictions through the Shiny dashboard:
 
-🔗 **[Dashboard]([https://shinyapps.io/your-app-link](https://a1isha.shinyapps.io/APS_/))**  
+🔗 **[Dashboard](https://a1isha.shinyapps.io/APS_/)**  
 *(Forecasts for crime rates, food trends, and urban migration)*
 
 ---
@@ -68,7 +68,7 @@ Get a deeper dive into our findings, methodology, and policy recommendations:
 ## 👥 Team
 
 - **Noor Rehman** – Data Science, student at Air University
-- **Alisha** – Data Science, student at Air University
+- **Alisha Rubab** – Data Science, student at Air University
 
 ---
 
